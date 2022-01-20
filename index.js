@@ -1,3 +1,4 @@
+// Comment line
 const myEmojis = ["👨‍💻", "⛷", "🍲"]
 
 function renderEmojis() {
